@@ -1,0 +1,21 @@
+.innerSidebar{
+    width: 92%;
+    position: relative;
+    left: 8%;
+    
+}
+hr{
+    margin: .3rem 0 !important;
+   
+}
+ .setLine{
+    border-left: 1px solid rgba(255, 255, 255, 0.651);
+ }
+ 
+ .form-check-input.is-valid:checked, .was-validated .form-check-input:valid:checked {
+    background-color: #0eb96a !important;
+}
+.form-check-input {
+    margin:0 8px 0 4px;
+    
+}
